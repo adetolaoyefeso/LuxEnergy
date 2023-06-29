@@ -21,3 +21,5 @@ The LuxEnergy website includes the following features:
 - **Services Section:** A dedicated section highlights LuxEnergy's services, providing detailed information about their energy solutions and expertise.
 
 - **Contact Form:** A contact form is integrated into the website, enabling visitors to reach out to LuxEnergy for inquiries or requests.
+
+A live demo of the LuxEnergy website can be accessed here: https://luxenergy.netlify.app
